@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-mistralai
+mistralai
+langchain-community
+faiss-cpu
+python-docx
+pandas
+unstructured
+sentence-transformers
+pypdf
